@@ -35,3 +35,7 @@ In Admin Have many section like Add student,Add marks.
 #student page student can see our result weather pass or fail
 ![Student result student page7](https://user-images.githubusercontent.com/121413963/229365168-0bea600f-6ee0-4c64-82af-164aac1e6f87.PNG)
 
+
+
+![Student result student page8](https://user-images.githubusercontent.com/121413963/229365636-d7acfcce-28b7-4fcc-a7fe-70e59c972e1f.PNG)
+
