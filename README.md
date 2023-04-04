@@ -32,6 +32,11 @@ In Admin Have many section like Add student,Add marks.
  #Admin can see Registered Students ![Registered Student 6](https://user-images.githubusercontent.com/121413963/229365110-ca287d1f-c85c-40b9-8d87-1888c8b1939b.PNG)
 
 
+#Admin can view All the students Result in one frame![all student result](https://user-images.githubusercontent.com/121413963/229838096-659839f3-c26c-4a8c-8735-208ee747b1f9.PNG)
+
+
+
+
 #student page student can see our result weather pass or fail
 ![Student result student page7](https://user-images.githubusercontent.com/121413963/229365168-0bea600f-6ee0-4c64-82af-164aac1e6f87.PNG)
 
